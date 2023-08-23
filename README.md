@@ -1,4 +1,9 @@
 # digital-clock
-Live Digital Clock
-This project's goal is to create a digital clock that tells the the time from a laptop. As I am based in EST, the time showcases the EST time, with a correct "AM" or "PM" reading. 
-I chose to do this project to refamiliarize myself wth JavaScript functions, as well as HTML and CSS syntax. 
+## Function
+This application takes the current time of your device and displays it in a HH-MM-SS format. As it is a 12 hr clock it also displays whether the time is AM or PM. 
+## Design
+![digital-clock screenshot]()
+## Creator's Note 
+This project is a first in a series of smaller projects to re-familiarize myself with important HTML/CSS/JS tools. Notes regarding different tag functionality, syntax, or styling effects are noted down in each of the code files. 
+## References
+This project was made using [JavaScript King's HTML/CSS/JS Tutorial](https://youtu.be/EWv2jnhZErc) 
